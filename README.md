@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm Pedro Rhamon
-- Live in 🇧🇷, northeast 🌞                                                      
+- Live in Brazil, northeast 🌞 🇧🇷                                                     
 - I have been working dataprev intern as backend dev 💻 🖱️
 - I have learned more about Java spring boot and many others etc. Html, js, css ❤️
 
