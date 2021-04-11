@@ -19,8 +19,8 @@
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="rails" width="60" height="50"  style = "max-width: 100%;"><img>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
-<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="rails" width="60" height="50"  style = "max-width: 100%;"><img>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="rails" width="60" height="50"  style = "max-width: 100%;"><img>
