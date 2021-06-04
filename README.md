@@ -26,10 +26,11 @@
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="rails" width="60" height="50"  style = "max-width: 100%;"><img>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="rails" width="60" height="50"  style = "max-width: 100%;"><img>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="rails" width="60" height="50"  style = "max-width: 100%;"><img>
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
+
 
 
 ## I'm learning moment
-<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
