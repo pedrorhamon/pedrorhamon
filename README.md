@@ -34,6 +34,8 @@
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
+
 
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrorhamon&show_icons=true&theme=radical)
