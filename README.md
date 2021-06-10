@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm Pedro Rhamon
 - Live in Brazil, northeast 🌞 🏖️                                                    
-- I have been working dataprev intern as backend dev 💻 🖱️
+- I have been working dev as backend and frontend 💻 🖱️
 - I have learned more about Java spring boot and many others etc. Html, js, css ❤️
 
 ## Connect with me:
@@ -27,7 +27,6 @@
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="rails" width="60" height="50"  style = "max-width: 100%;"><img>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" alt="rails" width="60" height="50"  style = "max-width: 100%;"><img>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
-<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 
 
 
