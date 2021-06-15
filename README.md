@@ -2,7 +2,7 @@
 ### I'm Pedro Rhamon
 - Live in Brazil, northeast 🌞 🏖️                                                    
 - I have been working dev as backend and frontend 💻 🖱️
-- I have learned more about Java spring boot and many others etc. Html, js, ts, css ❤️
+- I have learned more about Java spring boot etc. Html, js, ts, css ❤️
 
 ## Connect with me:
 <a href = "https://www.linkedin.com/in/pedro-rhamon-a806031aa/" target= "_blank">
