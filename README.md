@@ -2,7 +2,6 @@
 ### I'm Pedro Rhamon
 - Living in Brazil, northeast 🌞 🏖️                                                    
 - I have been working as a fullstack dev 💻 🖱️
-- I have learned more about Java spring boot etc. Html, js, ts, css ❤️
 
 ## Connect with me:
 <a href = "https://www.linkedin.com/in/pedro-rhamon-a806031aa/" target= "_blank">
