@@ -35,6 +35,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
+
 
 
 ## I'm learning moment
