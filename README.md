@@ -41,6 +41,8 @@
 ## I'm learning moment
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 
+![Snake animation](https://github.com/pedrorhamon/pedrorhamon/blob/output/github-contribution-grid-snake.svg)
+
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrorhamon&show_icons=true&theme=radical)
 
-![Snake animation](https://github.com/pedrorhamon/pedrorhamon/blob/output/github-contribution-grid-snake.svg)
+
