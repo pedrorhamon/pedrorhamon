@@ -37,9 +37,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"/>
 
 ## I'm learning moment
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
+
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrorhamon&show_icons=true&theme=radical)
 
