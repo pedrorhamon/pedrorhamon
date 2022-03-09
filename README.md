@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm Pedro Rhamon
 - Living in Brazil, northeast 🌞 🏖️                                                    
-- I have been working as a fullstack dev Java && Angular && React 💻 🖱️
+- I have been working as a fullstack dev Java && Angular && React && JSF && JSP💻 🖱️
 
 ## Connect with me:
 <a href = "https://www.linkedin.com/in/pedro-rhamon-a806031aa/" target= "_blank">
