@@ -40,7 +40,7 @@
 
 ## I'm learning moment
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;">/
 
 
 
