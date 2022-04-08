@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 👋
 ### I'm Pedro Rhamon
 - Living in Brazil, northeast 🌞 🏖️                                                    
 - I have been working as minsait company a fullstack dev Java && Angular && React && JSF && JSP && Docker💻 🖱️
