@@ -1,7 +1,7 @@
 ### Hi there 👋 👋 👋
 ### I'm Pedro Rhamon
 - Living in Brazil, northeast 🌞 🏖️ 🏖️                                                    
-- I have been working as minsait a backend dev Java && jaspen Report && python && Angular && React && JSF && JSP && Docker && oracle && PostgreSQL 💻 🖱️
+- I have been working as minsait a backend dev Java && jaspen Report && python && Angular && React && JSF &&  AWS && Docker && JSP && Docker && oracle && PostgreSQL 💻 🖱️
 
 ## Connect with me:
 <a href = "https://www.linkedin.com/in/pedro-rhamon-a806031aa/" target= "_blank">
