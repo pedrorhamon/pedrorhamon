@@ -38,7 +38,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"></img>
 
 ## I'm learning moment
