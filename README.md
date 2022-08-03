@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi there 👋 👋 
 ### I'm Pedro Rhamon
 - Living in Brazil, northeast 🌞 🏖️                                                     
 - I have been working as Engineering Brasil a backend dev Java && LFW && jaspen Report && 
@@ -40,11 +40,11 @@ python && Angular && React && JSF &&  AWS && Docker && JSP && Docker && ORACLE &
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"  alt="rails" width="60" height="50"   style = "max-width: 100%;"/></img>
 
 ## I'm learning moment
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"  alt="rails" width="60" height="50"   style = "max-width: 100%;"/></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"  alt="rails" width="60" height="50"   style = "max-width: 100%;"/></img>
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"></img>
 
