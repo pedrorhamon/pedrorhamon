@@ -5,8 +5,9 @@
 python && Angular && React && JSF &&  AWS && Docker && JSP && Docker && ORACLE && PostgreSQL && MySQL && SQL Server Relational and non-relational database 💻 🖱️
 
 
-( <p align="center">
-    <img windth="470" src=/pedrorhamon/dormrm.gif)
+<p align="center">
+    <img windth="470" src=/pedrorhamon/dormrm.gif 
+</p>
     
 ## Connect with me:
 <a href = "https://www.linkedin.com/in/pedro-rhamon-a806031aa/" target= "_blank">
