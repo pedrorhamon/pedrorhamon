@@ -6,7 +6,7 @@ python && Angular && React && JSF &&  AWS && Docker && JSP && Docker && ORACLE &
 
 
 <p align="center">
-   <img src = "/doimain" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
+   <img src = "/dormrm.gif" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 </p>
     
 ## Connect with me:
