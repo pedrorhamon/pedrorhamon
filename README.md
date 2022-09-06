@@ -1,6 +1,3 @@
-<p align="right">
- <img src = "/dormrm.gif" alt="rails" width="150" height="150"   style = "max-width: 100%;"><img>
-</p>
 ### Hi there 👋 👋 
 ### I'm Pedro Rhamon
 
@@ -8,6 +5,10 @@
 - I have been working as Engineering Brasil a backend dev Java && LFW && jaspen Report && 
 python && Angular && React && JSF &&  AWS && Docker && JSP && Docker && ORACLE && PostgreSQL && MySQL && SQL Server Relational and non-relational database 💻 🖱️
     
+ <p align="right">
+ <img src = "/dormrm.gif" alt="rails" width="150" height="150"   style = "max-width: 100%;"><img>
+</p>
+
 ## Connect with me:
 <a href = "https://www.linkedin.com/in/pedro-rhamon-a806031aa/" target= "_blank">
   <img align ="center" alt="pedrorhamon-linkedin" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
