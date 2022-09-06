@@ -6,7 +6,7 @@ python && Angular && React && JSF &&  AWS && Docker && JSP && Docker && ORACLE &
 
 
 ( <p align="center">
-    <img windth="470" src=/dormrm.gif)
+    <img windth="470" src=/pedrorhamon/dormrm.gif)
     
 ## Connect with me:
 <a href = "https://www.linkedin.com/in/pedro-rhamon-a806031aa/" target= "_blank">
