@@ -6,7 +6,7 @@ python && Angular && React && JSF &&  AWS && Docker && JSP && Docker && ORACLE &
 
 
 <p align="center">
-    <img windth="470" src=/pedrorhamon/dormrm.gif 
+    <img windth="470" src=/pedrorhamon/dormrm.gif>
 </p>
     
 ## Connect with me:
