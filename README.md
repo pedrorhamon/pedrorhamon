@@ -6,7 +6,7 @@
 python && Angular && React && JSF &&  AWS && Docker && JSP && Docker && ORACLE && PostgreSQL && MySQL && SQL Server Relational and non-relational database 💻 🖱️
     
  <p align="right">
- <img src = "/dormrm.gif" alt="rails" width="150" height="150"   style = "max-width: 100%;"><img>
+ <img src = "/dormrm.gif" alt="rails" width="200" height="200"   style = "max-width: 100%;"><img>
 </p>
 
 ## Connect with me:
