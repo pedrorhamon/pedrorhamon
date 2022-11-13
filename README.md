@@ -1,9 +1,9 @@
-### Hi there 👋 👋 
+### Hi there 👋 👋 👋
 ### I'm Pedro Rhamon
 
 - Living in Brazil, northeast 🌞 🏖️                                                     
 - I have been working as Engineering Brasil a backend dev Java && LFW && jaspen Report && 
-python && Angular && React && JSF &&  AWS && Docker && JSP && Docker && ORACLE && PostgreSQL && MySQL && SQL Server Relational and non-relational database 💻 🖱️
+Python && Angular && React && JSF &&  AWS && Docker && JSP && Docker && ORACLE && PostgreSQL && MySQL && SQL Server Relational and non-relational database 💻 🖱️
     
  <p align="right">
  <img src = "/dormrm.gif" alt="rails" width="200" height="200"   style = "max-width: 100%;"><img>
@@ -46,7 +46,6 @@ python && Angular && React && JSF &&  AWS && Docker && JSP && Docker && ORACLE &
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"  alt="rails" width="60" height="50"   style = "max-width: 100%;"/></img>
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ie10/ie10-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 
@@ -54,6 +53,7 @@ python && Angular && React && JSF &&  AWS && Docker && JSP && Docker && ORACLE &
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"  alt="rails" width="60" height="50"   style = "max-width: 100%;"/></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"></img>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrorhamon&show_icons=true&theme=radical)
 
