@@ -53,7 +53,6 @@ Python && Angular && React && JSF &&  AWS && Docker && JSP && Docker && ORACLE &
 ## I'm learning moment
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"  alt="rails" width="60" height="50"   style = "max-width: 100%;"/></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"></img>
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrorhamon&show_icons=true&theme=radical)
 
