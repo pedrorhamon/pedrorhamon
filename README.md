@@ -2,7 +2,7 @@
 ### I'm Pedro Rhamon
 
 - Living in Brazil, northeast 🌞 🏖️                                                     
-- I have been working as Engineering Brasil a backend dev Java && LFW && jaspen Report && 
+- I have been working as Engineering Brasil a backend dev Java && LFW frontend && jaspen Report && 
 Python && Angular && React && JSF &&  AWS && Docker && JSP && Docker && ORACLE && PostgreSQL && MySQL && SQL Server Relational and non-relational database 💻 🖱️
     
  <p align="right">
