@@ -26,7 +26,6 @@ Python && Angular && React && JSF &&  AWS && Docker && JSP && Docker && ORACLE &
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
-<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="rails" width="60" height="50"  style = "max-width: 100%;"><img>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="rails" width="60" height="50"  style = "max-width: 100%;"><img>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="rails" width="60" height="50"  style = "max-width: 100%;"><img>
@@ -51,6 +50,7 @@ Python && Angular && React && JSF &&  AWS && Docker && JSP && Docker && ORACLE &
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 
 ## I'm learning moment
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg"  alt="rails" width="60" height="50"   style = "max-width: 100%;"/></img>
 
