@@ -2,7 +2,7 @@
 ### I'm Pedro Rhamon
 
 - Living in Brazil, northeast 🌞 🏖️                                                     
-- I have been working as Engineering Brasil a backend dev Java && LFW frontend and AngularJS 💻 🖱️
+- I have been working as Engineering Brasil a backend dev Java and LFW frontend and AngularJS 💻 🖱️
     
  <p align="right">
  <img src = "/dormrm.gif" alt="rails" width="200" height="200"   style = "max-width: 100%;"><img>
