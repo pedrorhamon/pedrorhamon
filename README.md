@@ -2,7 +2,7 @@
 ### I'm Pedro Rhamon
 
 - Living in Brazil, northeast 🌞 🏖️                                                     
-- I have been working as Engineering Brasil a backend dev Java and LFW frontend and AngularJS and React💻 🖱️
+- I have been working as Engineering Brasil a backend Java develope and LFW frontend and AngularJS and React💻 🖱️
     
  <p align="right">
  <img src = "/dormrm.gif" alt="rails" width="200" height="200"   style = "max-width: 100%;"><img>
@@ -35,7 +35,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
-<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"></img>
@@ -52,6 +51,7 @@
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="rails" width="60" height="50"  style = "max-width: 100%;"><img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="rails" width="60" height="50"   style = "max-width: 100%;"><img>
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrorhamon&show_icons=true&theme=radical)
 
