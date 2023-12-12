@@ -1,5 +1,5 @@
 ### Hi there 👋👋
-### I'm Pedro Rhamon 👋
+### I'm Pedro Rhamon 
 
 - Living in Brazil, northeast Cabedelo/PB🌞 🏖️                                                
 - I have been working as Engineering Brasil a backend Java 6> develope and LFW frontend and AngularJS and React 💻 🖱️
