@@ -1,4 +1,4 @@
-### Hi there 👋👋👋👋
+### Hi there 👋👋
 ### I'm Pedro Rhamon 
 
 - Living in Brazil, northeast Cabedelo/PB🌞 🏖️                                                
