@@ -2,7 +2,7 @@
 ### I'm Pedro Rhamon 
 
 - Living in Brazil, northeast Cabedelo/PB🌞 🏖️                                                
-- I have been working as Engineering Brasil a backend Java 6> develope and LFW frontend and AngularJS and React. Service cloud aws and azure. Queue kafka is RabbitMQ 💻 🖱️
+- I have been working as Minsait Company a backend Java 6> develope and LFW frontend and AngularJS and React. Service cloud aws and azure. Queue kafka is RabbitMQ 💻 🖱️
     
  <p align="right">
  <img src = "/dormrm.gif" alt="rails" width="200" height="200"   style = "max-width: 100%;"><img>
